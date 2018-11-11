@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "campanda/botman": "2.0.x-dev",
+        "campanda/botman": "2.0.x-dev@dev",
         "mpociot/slack-client": "~1.0"
     },
     "require-dev": {
