@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-slack",
+    "name": "campanda/botman-driver-slack",
     "license": "MIT",
     "description": "Slack driver for BotMan",
     "keywords": [
@@ -12,11 +12,15 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "botman/botman": "~2.1",
+        "campanda/botman": "2.0.x-dev",
         "mpociot/slack-client": "~1.0"
     },
     "require-dev": {
